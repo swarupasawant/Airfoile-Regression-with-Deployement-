@@ -1,7 +1,9 @@
-flask
+Flask
 gunicorn
 Jinja2
-numpy
-scipy
 Werkzeug
+numpy
 pandas
+scipy
+scikit-learn
+matplotlib
